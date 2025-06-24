@@ -10,7 +10,7 @@ function scrollToEnd(inputElement) {
 }
 
 function playAudio() {
-  new Audio("/water-drip-45622.mp3").play();
+  new Audio("spacebar-click-keyboard-199448.mp3").play();
 }
 
 for (let num of nums) {
